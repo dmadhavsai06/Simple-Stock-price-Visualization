@@ -112,6 +112,14 @@ It helps users compare historical trends and observe changes in market performan
 
 ---
 
+### 6. Trading Volume
+
+The Trading Volume visualization shows the number of shares traded across different years. It helps identify periods of higher and lower market activity and provides an overview of trading volume trends over time.
+
+![Trading Volume](Trading_Volume.png)
+
+---
+
 ## 🔄 Methodology
 
 The project follows these major steps:
