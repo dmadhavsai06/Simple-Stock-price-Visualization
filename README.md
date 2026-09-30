@@ -150,17 +150,9 @@ The project follows these major steps:
 ---
 
 ## 📂 Project Structure
-
-```text
-Stock-Market-Price-Analysis/
-│
-├── DV_Project_1.pbix
-├── Market.csv
-├── README.md
-│
-└── images/
     ├── Daily_Price_Change.png
     ├── Daily_Return.png
     ├── Dashboard.png
     ├── High_vs_Low.png
-    └── Historic_closing_price_trend.png
+    ├── Historic_closing_price_trend.png
+    └── Trading_Volume.png
