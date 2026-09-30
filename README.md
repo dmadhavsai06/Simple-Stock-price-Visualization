@@ -59,7 +59,7 @@ The dataset is used to analyze historical stock price movements, trading activit
 
 The Daily Price Change visualization shows the positive and negative changes in stock prices across different years. It helps identify periods of significant price increases and decreases.
 
-![Daily Price Change](images/Daily_Price_Change.png)
+![Daily Price Change](Daily_Price_Change.png)
 
 ---
 
@@ -67,7 +67,7 @@ The Daily Price Change visualization shows the positive and negative changes in 
 
 The Daily Return visualization represents the variation in daily stock returns over time. It helps observe periods of positive and negative returns and overall price volatility.
 
-![Daily Return](images/Daily_Return.png)
+![Daily Return](Daily_Return.png)
 
 ---
 
@@ -90,7 +90,7 @@ It includes:
 
 The dashboard also provides filters for **Index** and **Year** for interactive analysis.
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
@@ -98,7 +98,7 @@ The dashboard also provides filters for **Index** and **Year** for interactive a
 
 This visualization compares the aggregated high and low prices across different years. It helps identify major changes in historical price movements.
 
-![High vs Low](images/High_vs_Low.png)
+![High vs Low](High_vs_Low.png)
 
 ---
 
@@ -108,7 +108,7 @@ The Historical Closing Price Trend visualization shows the closing price movemen
 
 It helps users compare historical trends and observe changes in market performance over time.
 
-![Historical Closing Price Trend](images/Historic_closing_price_trend.png)
+![Historical Closing Price Trend](Historic_closing_price_trend.png)
 
 ---
 
